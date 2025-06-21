@@ -1,5 +1,5 @@
 alert("Pitman Java Script Learning");     //pop up window with a message
-window.alert("Project1 expressions and alert");    //another way to create an alert
+window.alert("Project 1 - expressions and alert");    //another way to create an alert
 document.write("This is a JavaScript message written to the document.");   //write a message to the document
 var Sent1 = "This is the beggining of the string with \" or \\ as a special character" + "\ "; //using \ to escape special characters
 document.write("<br>");   //write a line break to the document
