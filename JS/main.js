@@ -12,6 +12,7 @@ var Family = "Big family:", husband = "Bohumil", wife = "Maria";    //declaring 
 document.write(Family + "\ " + husband + "\ and " + wife  + "<br>");      //write family members to the document
 document.write(3+3);    //write the result of an expression to the document
 document.write("<br>");   //write a line break to the document
+document.write("<br>");   //write a line break to the document
 function My_First_Function() {      //My first function, clikking the button will call this function
     var str = "PitMan Training ";    //string variable
     document.getElementById("Button_Text").innerHTML = str;     //change the text of the button to the string variable
